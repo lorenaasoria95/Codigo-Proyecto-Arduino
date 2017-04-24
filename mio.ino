@@ -1,5 +1,17 @@
+/*
+ * OZGANIZARDUINO
+ * 
+ * Autores:
+ * Sara Navas Saéz
+ * Lorena Soria García
+ * Eduardo Torres Pardo
+ */
+
+//Libreria LCD
 #include <LiquidCrystal.h>
+//Libreria Brazo
 #include "meArm.h"
+//Libreria Servo
 #include <Servo.h>
 
 //pines para el LCD
